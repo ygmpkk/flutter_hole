@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - hole (0.0.1):
+    - Flutter
+    - XHPKit
+  - XHPKit (1.0.3)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - hole (from `.symlinks/plugins/hole/ios`)
+
+SPEC REPOS:
+  trunk:
+    - XHPKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  hole:
+    :path: ".symlinks/plugins/hole/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  hole: ba22398155d6ff589391b1946d45199dd4b177b3
+  XHPKit: 7f5e133854942b3e2697ad7abeb0d7699e2b1b8c
+
+PODFILE CHECKSUM: 40d1086bf1d176addd887fc964c9f01709f49d59
+
+COCOAPODS: 1.8.4
